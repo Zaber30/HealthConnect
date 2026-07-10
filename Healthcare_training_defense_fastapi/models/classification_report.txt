@@ -1,0 +1,74 @@
+Best Model    : Random Forest
+Test Accuracy : 0.9440
+CV Mean±Std   : 0.9547 ± 0.0057
+
+                          precision    recall  f1-score   support
+
+                    Acne       0.91      0.88      0.89        24
+       Allergic Reaction       0.96      0.96      0.96        24
+     Alzheimer's Disease       1.00      1.00      1.00        24
+                  Anemia       0.96      0.92      0.94        24
+        Anxiety Disorder       0.96      0.96      0.96        24
+            Appendicitis       1.00      0.92      0.96        24
+              Arrhythmia       0.91      0.88      0.89        24
+                  Asthma       1.00      1.00      1.00        24
+        Bipolar Disorder       1.00      0.96      0.98        24
+           Breast Cancer       0.96      1.00      0.98        24
+              Bronchitis       0.91      0.88      0.89        24
+                COVID-19       1.00      0.96      0.98        24
+               Cataracts       0.88      0.92      0.90        24
+              Chickenpox       0.92      0.96      0.94        24
+                 Cholera       0.96      1.00      0.98        24
+  Chronic Kidney Disease       0.96      0.96      0.96        24
+            Colon Cancer       0.92      0.92      0.92        24
+             Common Cold       0.96      0.92      0.94        24
+          Conjunctivitis       0.88      0.96      0.92        24
+         Crohn's Disease       0.96      0.96      0.96        24
+            Dengue Fever       1.00      0.96      0.98        24
+           Ear Infection       1.00      1.00      1.00        24
+                  Eczema       0.95      0.83      0.89        24
+           Endometriosis       0.92      0.92      0.92        24
+                Epilepsy       0.96      1.00      0.98        24
+        Fungal Infection       0.77      0.83      0.80        24
+               Gastritis       0.88      0.96      0.92        24
+                Glaucoma       0.87      0.83      0.85        24
+                    Gout       0.95      0.88      0.91        24
+           Heart Disease       0.85      0.96      0.90        24
+           Heart Failure       0.96      0.96      0.96        24
+             Hepatitis B       0.96      0.96      0.96        24
+             Hepatitis C       0.96      0.92      0.94        24
+            Hypertension       1.00      1.00      1.00        24
+         Hyperthyroidism       1.00      1.00      1.00        24
+          Hypothyroidism       0.96      1.00      0.98        24
+               Influenza       0.96      0.96      0.96        24
+Irritable Bowel Syndrome       0.96      1.00      0.98        24
+           Kidney Stones       1.00      0.92      0.96        24
+             Lung Cancer       0.96      1.00      0.98        24
+                   Lupus       0.92      1.00      0.96        24
+        Major Depression       0.96      1.00      0.98        24
+                 Malaria       0.96      0.92      0.94        24
+                 Measles       1.00      1.00      1.00        24
+                Migraine       1.00      0.92      0.96        24
+      Multiple Sclerosis       1.00      1.00      1.00        24
+          Osteoarthritis       0.81      0.92      0.86        24
+            Osteoporosis       0.88      0.92      0.90        24
+                    PCOS       0.96      1.00      0.98        24
+     Parkinson's Disease       0.96      1.00      0.98        24
+            Peptic Ulcer       0.95      0.83      0.89        24
+               Pneumonia       0.92      0.96      0.94        24
+    Prostate Enlargement       0.96      1.00      0.98        24
+               Psoriasis       0.91      0.83      0.87        24
+    Rheumatoid Arthritis       0.91      0.83      0.87        24
+               Sinusitis       0.88      0.92      0.90        24
+                  Stroke       1.00      1.00      1.00        24
+             Tonsillitis       1.00      0.96      0.98        24
+            Tuberculosis       1.00      0.96      0.98        24
+         Type 1 Diabetes       0.92      1.00      0.96        24
+         Type 2 Diabetes       1.00      0.96      0.98        24
+                 Typhoid       0.95      0.88      0.91        24
+ Urinary Tract Infection       0.86      1.00      0.92        24
+        Uterine Fibroids       0.91      0.88      0.89        24
+
+                accuracy                           0.94      1536
+               macro avg       0.95      0.94      0.94      1536
+            weighted avg       0.95      0.94      0.94      1536
