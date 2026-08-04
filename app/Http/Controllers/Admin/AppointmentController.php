@@ -41,7 +41,9 @@ class AppointmentController
     {
         $appointment->load(['schedule.doctor', 'patient']);
         $statuses = ['pending', 'approved', 'rejected', 'completed', 'cancelled'];
+
         return view('admin.appointments.edit', compact('appointment', 'statuses'));
+
     }
 
     public function update(Request $request, AppointmentBooking $appointment)

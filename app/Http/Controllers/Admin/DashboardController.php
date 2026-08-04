@@ -17,6 +17,7 @@ class DashboardController extends Controller
         $totalDoctors = User::where('role', 'doctor')->count();
         $totalAdmins = User::where('role', 'admin')->count();
 
+
         // Doctor Statistics
         $approvedDoctors = User::where('role', 'doctor')->where('status', 'approved')->count();
         $pendingDoctors = User::where('role', 'doctor')->where('status', 'pending')->get();

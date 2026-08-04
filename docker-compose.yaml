@@ -1,0 +1,16 @@
+services:
+  Hms_Service:
+    build: .
+    container_name: Hms_project
+    restart: always
+    volumes:
+      - .:./app/project
+    ports:
+      - "8081"
+    networks:
+      - Hms_project
+
+  Hms_phpmyadmin_service:
+    image: phpmyadmin:latest
+    restart: always
+
