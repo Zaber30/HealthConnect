@@ -1,16 +1,6 @@
-# Intelligent Healthcare Platform — HMS1 (Laravel)
+# Intelligent Healthcare Platform
 
-Intelligent Healthcare Platform (HMS1) is a Laravel-based application providing a feature-rich appointment and prescription management system with admin, doctor, and patient roles. It includes scheduling, booking, prescription workflows, notifications, and an integrated prediction endpoint for guest users.
-
-## Quick overview
-
-- **Project name:** Intelligent Healthcare Platform (HMS1)
-- **Framework:** Laravel 12
-- **PHP:** 8.2+
-- **Frontend:** Vite + Tailwind + Inertia (assets in `resources/js`, `resources/css`)
-- **Database:** MySQL / MariaDB (default), migrations and seeders provided
-- **Primary domain:** appointment scheduling, doctor & clinic management, prescriptions, patient workflows, and basic predictive features
-
+Intelligent Healthcare Platform  is a Laravel-based application providing a feature-rich appointment and prescription management system with admin, doctor, and patient roles. It includes scheduling, booking, prescription workflows, notifications, and an integrated prediction endpoint for guest users.
 
 ## Implemented features
 
@@ -25,6 +15,17 @@ Intelligent Healthcare Platform (HMS1) is a Laravel-based application providing 
 - Notifications: in-app or queued notifications for key events
 - Full auth features: registration, login, email verification, password reset
 - Database seeders and factories for demo data (doctors, users)
+
+## Quick overview
+
+- **Project name:** Intelligent Healthcare Platform (HMS1)
+- **Framework:** Laravel 12
+- **PHP:** 8.2+
+- **Frontend:** Vite + Tailwind + Inertia (assets in `resources/js`, `resources/css`)
+- **Database:** MySQL / MariaDB (default), migrations and seeders provided
+- **Primary domain:** appointment scheduling, doctor & clinic management, prescriptions, patient workflows, and basic predictive features
+
+
 
 ## Requirements
 
