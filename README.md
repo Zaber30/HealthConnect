@@ -151,7 +151,7 @@ If you'd like to contribute or extend the project:
 If you want to see this project running or want more details for my CV, reach me via the contact info on my GitHub profile.
 
 ---
-_README generated for portfolio use. Edit environment-sensitive values in `.env` before deploying._
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
