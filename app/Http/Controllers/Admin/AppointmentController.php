@@ -6,7 +6,7 @@ use App\Models\AppointmentBooking;
 use App\Models\AppointmentSchedule;
 use App\Models\User;
 use Illuminate\Http\Request;
-
+//ok this works
 class AppointmentController
 {
     public function index(Request $request)
