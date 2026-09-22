@@ -1,6 +1,6 @@
-# HealthConnect - Healthcare Management System
+# HealthConnect - Healthcare Management Platform
 
-HealthConnect is a Laravel-based healthcare management system for connecting patients, doctors, and administrators through one appointment and prescription workflow. The application combines doctor discovery, schedule management, patient booking, booking approval, prescription records, role-based administration, notifications, and an optional machine-learning specialist recommendation service.
+HealthConnect is a Laravel-based healthcare management Platform for connecting patients, doctors, and administrators through one appointment and prescription workflow. The application combines doctor discovery, schedule management, patient booking, booking approval, prescription records, role-based administration, notifications, and an optional machine-learning specialist recommendation service.
 
 ## What the project provides
 
